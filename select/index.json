@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ときのこえ",
+  "base_artist": "Islet",
+  "createdAt": "2025-12-23T13:01:13.931736Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ときのこえ (feat. Sando Aoi)",
+      "artist": "Islet, Sando Aoi",
+      "has_synced": false,
+      "path": "select/pl_01_ときのこえ_(feat._Sando_Aoi)_Islet,_Sando_Aoi.txt"
+    }
+  ]
+}
